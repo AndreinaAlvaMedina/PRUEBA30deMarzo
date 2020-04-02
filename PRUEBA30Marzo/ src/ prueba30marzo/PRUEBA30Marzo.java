@@ -18,6 +18,7 @@ public class PRUEBA30Marzo {
         System.out.println("Jocsan Abisaí López González");
         System.out.println("Zona 11, Huehuetenango, Huehuetenango");
         System.out.println("56158681");
+system.        out.println("Jocsan lopez");
         
     }
     
